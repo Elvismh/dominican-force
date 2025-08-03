@@ -56,6 +56,31 @@ p {
 }
 .btn {
     display: inline-block;
+    padding: 15px 30px;
+    margin: 10px;
+    background-color: #00ff88;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: #00cc66;
+}
+
+.game-btn {
+    background-color: #0088ff;
+    color: #fff;
+}
+
+.game-btn:hover {
+    background-color: #0066cc;
+}
+.btn {
+    display: inline-block;
     background: #25D366;
     color: #fff;
     font-size: 1.3rem;
