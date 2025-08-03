@@ -1,3 +1,6 @@
+## Vista Previa
+![Preview](preview.png)
+
 # Dominican Force ⚔
 
 ![Logo](Logo.png)
